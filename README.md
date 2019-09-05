@@ -1,4 +1,6 @@
 <img src="/docs/cover.png?v=2" />
+<img src="https://opencollective.com/jsmonday/tiers/backer/badge.svg?label=Backer&color=brightgreen" />
+<br />
 
 **JavaScript** library for generating **ImageProxy** urls **both on browser and server**.
 
