@@ -1,0 +1,25 @@
+{
+  "name": "@jsmonday/imgproxy",
+  "version": "0.0.1",
+  "description": "ImgProxy Library for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "imgproxy",
+    "nodejs",
+    "browser",
+    "image",
+    "resizing"
+  ],
+  "author": "Michele Riva <ciao@micheleriva.it>",
+  "license": "MIT",
+  "dependencies": {
+    "create-hmac": "1.1.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.1.0",
+    "jest": "^24.9.0"
+  }
+}
