@@ -1,8 +1,9 @@
 {
   "name": "@jsmonday/imgproxy",
   "version": "0.0.1",
-  "description": "ImgProxy Library for Node.js",
+  "description": "ImgProxy Library for Node.js that works both on browser and server",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "test": "jest --coverage"
   },

@@ -27,7 +27,7 @@ const myResizedImage = proxy
                         .height(500)
                         .extension("png")
 
-console.log(myResizedImage.get()); // => "<imgproxy url"
+console.log(myResizedImage.get()); // => "<imgproxy url>"
 
 ```
 
