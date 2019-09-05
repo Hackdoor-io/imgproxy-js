@@ -1,4 +1,5 @@
-<img src="/docs&/cover.png" />
+<img src="/docs/cover.png" />
+
 **JavaScript** library for generating **ImageProxy** urls **both on browser and server**.
 
 # Installation
