@@ -1,11 +1,12 @@
 {
   "name": "@jsmonday/imgproxy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ImgProxy Library for Node.js that works both on browser and server",
   "main": "index.js",
   "private": false,
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "postinstall": "opencollective-postinstall"
   },
   "keywords": [
     "imgproxy",
@@ -17,7 +18,8 @@
   "author": "Michele Riva <ciao@micheleriva.it>",
   "license": "MIT",
   "dependencies": {
-    "create-hmac": "1.1.7"
+    "create-hmac": "1.1.7",
+    "opencollective-postinstall": "^2.0.2"
   },
   "devDependencies": {
     "dotenv": "^8.1.0",
