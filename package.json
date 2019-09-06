@@ -1,6 +1,6 @@
 {
   "name": "@jsmonday/imgproxy",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "ImgProxy Library for Node.js that works both on browser and server",
   "main": "index.js",
   "private": false,
@@ -16,6 +16,13 @@
     "resizing"
   ],
   "author": "Michele Riva <ciao@micheleriva.it>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsmonday/imgproxy-js"
+  },
+  "bugs": {
+    "url": "https://github.com/jsmonday/imgproxy-js/issues"
+  },
   "license": "MIT",
   "collective": {
     "url": "https://opencollective.com/jsmonday"
