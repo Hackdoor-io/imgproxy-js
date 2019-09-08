@@ -1,6 +1,7 @@
 <img src="/docs/cover.png?v=2" />
-<img src="https://opencollective.com/jsmonday/tiers/one-shot-donation.svg?avatarHeight=60&width=600" />
-<br />
+<a href="https://opencollective.com/jsmonday" target="_blank">
+  <img src="https://opencollective.com/jsmonday/tiers/one-shot-donation.svg?avatarHeight=60&width=600" />
+</a><br />
 
 **JavaScript** library for generating **ImageProxy** urls **both on browser and server**.
 
